@@ -38,7 +38,7 @@ Cara memakai git sebenar nya sangat kompleks sekali karena menggunakan beberapa 
   
   dan lain lain
 
-3.Untuk Memakai Git cara nya sebagai berikut
+3.Cara menghubungkan git dengan git hub
  - ketik git config --global user.name "nama user sesuai di github"
  - ketik git config --global user.email "email yang dipakai di github"
 lalu kalian clone repository di github ke git local pc kalian
