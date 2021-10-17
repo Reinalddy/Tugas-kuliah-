@@ -37,6 +37,17 @@ Cara memakai git sebenar nya sangat kompleks sekali karena menggunakan beberapa 
    untuk melihat direktory aktif
   
   dan lain lain
+
+3.Untuk Memakai Git cara nya sebagai berikut
+ - ketik git config --global user.name "nama user sesuai di github"
+ - ketik git config --global user.email "email yang dipakai di github"
+lalu kalian clone repository di github ke git local pc kalian
+- ketik git clone (link server git hub)
+- ketik ls (untuk melihat kalian ada di direktory mana)
+- keltik cd (file direktoty yang aktif) untuk pindah ke direktory clone repo tadi
+- lalu ketik git remote untuk melihat apakah git kalian sudah terhubung ke github atau belum 
+
+
   
   
    
