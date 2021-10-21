@@ -57,6 +57,15 @@ lalu kalian clone repository di github ke git local pc kalian
  ![image](https://user-images.githubusercontent.com/92638894/138263441-d8a194b1-4c73-4a08-8967-d1ed0867331f.png)
  
  ![image](https://user-images.githubusercontent.com/92638894/138263491-876e8ec3-84bf-405b-b114-f498560cfe23.png)
+ 
+ ![image](https://user-images.githubusercontent.com/92638894/138263826-da00fa3f-4df3-41ad-b150-9b22feb39b7d.png)
+
+![image](https://user-images.githubusercontent.com/92638894/138263857-b4ac3930-a08b-47d3-991b-5e0e5505508c.png)
+
+![image](https://user-images.githubusercontent.com/92638894/138263891-f07a8cc5-17c7-46e2-9c6c-b322cdf69b83.png)
+
+![image](https://user-images.githubusercontent.com/92638894/138263930-163d04fd-012b-42dc-9b3f-29e3f097dd2d.png)
+
 
 
 
