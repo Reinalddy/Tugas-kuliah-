@@ -54,7 +54,11 @@ lalu kalian clone repository di github ke git local pc kalian
   
    
 
+ ![image](https://user-images.githubusercontent.com/92638894/138263441-d8a194b1-4c73-4a08-8967-d1ed0867331f.png)
  
+ ![image](https://user-images.githubusercontent.com/92638894/138263491-876e8ec3-84bf-405b-b114-f498560cfe23.png)
+
+
 
 
 
