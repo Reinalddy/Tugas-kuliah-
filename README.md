@@ -47,6 +47,8 @@ lalu kalian clone repository di github ke git local pc kalian
 - keltik cd (file direktoty yang aktif) untuk pindah ke direktory clone repo tadi
 - lalu ketik git remote untuk melihat apakah git kalian sudah terhubung ke github atau belum 
 
+ 
+
 
   
   
